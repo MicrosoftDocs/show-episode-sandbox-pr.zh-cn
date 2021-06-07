@@ -4,7 +4,7 @@ showId: show-episode-sandbox.iot
 uid: show-episode-sandbox.iot-plug-and-play-bridge-on-an-iot-edge-gateway
 title: "IoT Plug and Play bridge on an IoT Edge Gateway"
 description: |
-  <p>The IoT Plug and Play bridge is an open-source application for connecting existing devices attached to Windows or Linux gateway as IoT Plug and Play devices. The IoT Plug and Play bridge is now available as an Azure IoT Edge module. After installing and configuring IoT Plug and Play as an Edge module, you can use it to connect attached devices to an IoT hub. You can use the bridge to map IoT Plug and Play interfaces to the telemetry the attached devices are sending, work with device properties, and invoke commands. After watching the video you can learn more at <a href="https://aka.ms/iotshow/IoTPnPBridgeEdge" target="_blank">https://aka.ms/iotshow/IoTPnPBridgeEdge</a></p>
+  <p>The IoT Plug and Play bridge 是一个开源的应用为当前已经存在的设备连接windows或liunx网关作为 IoT Plug and Play devices. The IoT Plug and Play bridge is now available as an Azure IoT Edge module. After installing and configuring IoT Plug and Play as an Edge module, you can use it to connect attached devices to an IoT hub. You can use the bridge to map IoT Plug and Play interfaces to the telemetry the attached devices are sending, work with device properties, and invoke commands. After watching the video you can learn more at <a href="https://aka.ms/iotshow/IoTPnPBridgeEdge" target="_blank">https://aka.ms/iotshow/IoTPnPBridgeEdge</a></p>
 creators: 
 - Olivier Bloch
 - ricardoesway
